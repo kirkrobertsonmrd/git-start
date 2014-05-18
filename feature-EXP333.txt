@@ -1,3 +1,7 @@
 This is a new feature file fpr EXP333
 
+<<<<<<< HEAD
 Edit in develop from github
+=======
+This was edited from github
+>>>>>>> master
